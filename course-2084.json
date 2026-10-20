@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-Cubehuang",
-  "commit": "9121eba67c8d8c1b85c9765d0e3d5bdf930802ea",
-  "score": 33,
+  "commit": "52b654b15939d100860ceb2ee79e52597b709ee5",
+  "score": 36,
   "totalScore": 110,
   "exercises": [
     {
@@ -240,23 +240,23 @@
     {
       "name": "enums1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "enums3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "strings1",
@@ -778,7 +778,7 @@
     }
   ],
   "student": "Cubehuang",
-  "runId": "39225896350",
+  "runId": "39409695916",
   "runAttempt": "1",
   "upload": {
     "status": "pending"
